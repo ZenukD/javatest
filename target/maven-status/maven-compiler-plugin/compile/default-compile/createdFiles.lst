@@ -1,0 +1,17 @@
+softserve\academy\simplecrud\config\AppConfig$1.class
+softserve\academy\simplecrud\model\response\ProductUpdated.class
+softserve\academy\simplecrud\model\entity\Product$ProductBuilder.class
+softserve\academy\simplecrud\model\entity\Product.class
+softserve\academy\simplecrud\model\request\NewProduct.class
+softserve\academy\simplecrud\exception\ProductNotFoundException.class
+softserve\academy\simplecrud\model\response\ProductDto.class
+softserve\academy\simplecrud\model\response\ProductCreated.class
+softserve\academy\simplecrud\controller\ProductController.class
+softserve\academy\simplecrud\controller\advice\ErrorController$ErrorDto.class
+softserve\academy\simplecrud\config\AppConfig.class
+softserve\academy\simplecrud\controller\advice\ErrorController.class
+softserve\academy\simplecrud\model\request\PatchProduct.class
+softserve\academy\simplecrud\model\response\ProductDeleted.class
+softserve\academy\simplecrud\service\ProductService.class
+softserve\academy\simplecrud\repository\ProductRepository.class
+softserve\academy\simplecrud\SimplecrudApplication.class
